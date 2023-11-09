@@ -13,3 +13,6 @@
 
   Ovdje će biti upute vezane za objavu sadržaja repozitorija na webu.
   
+# Test datoteka 
+
+[Poveznica na test.md datoteku](test.md)
