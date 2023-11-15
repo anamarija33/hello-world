@@ -41,3 +41,7 @@ Projekt je živ i dostupan za pregled na: [anamarija33.github.io/hello-world](ht
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 ![smiley](https://w7.pngwing.com/pngs/195/411/png-transparent-emoji-sticker-akiko-glitter-whatsapp-emoji-smiley-sticker-emoticon.png)
+
+## Komentari 
+Ovdje možete napisati svoje komentare i povratne informacije.
+Isto tako možete predložiti kreatoru repozitorija ideje koje će poboljšati projekt.
